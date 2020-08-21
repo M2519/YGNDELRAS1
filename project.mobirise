@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "YGNDELRAS",
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -449,7 +449,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#d9d1bc"
           },
           "text": "<p>© Copyright 2017 CHAI BY YGND ELRAS - All Rights Reserved</p>",
@@ -772,7 +772,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#d9d1bc"
           },
           "text": "<p>© Copyright 2017 CHAI BY YGND ELRAS - All Rights Reserved</p>",
@@ -1038,7 +1038,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#d9d1bc"
           },
           "text": "<p>© Copyright 2017 CHAI BY YGND ELRAS - All Rights Reserved</p>",
@@ -1882,7 +1882,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#d9d1bc"
           },
           "text": "<p>© Copyright 2017 CHAI BY YGND ELRAS - All Rights Reserved</p>",
@@ -2195,7 +2195,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#d9d1bc"
           },
           "text": "<p>© Copyright 2017 CHAI BY YGND ELRAS - All Rights Reserved</p>",
@@ -2448,7 +2448,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#d9d1bc"
           },
           "text": "<p>© Copyright 2017 CHAI BY YGND ELRAS - All Rights Reserved</p>",
