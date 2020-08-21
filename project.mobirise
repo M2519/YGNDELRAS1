@@ -7,10 +7,10 @@
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#1d5632",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#a07e49",
+        "secondaryColor": "#1d5632",
+        "successColor": "#1d5632",
+        "infoColor": "#1d5632",
+        "warningColor": "#1d5632",
         "dangerColor": "#1d5632",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
@@ -77,7 +77,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">About Us<br></span><br>",
           "text": "Ygnd El-Ras is the first Emirati tea brand specialized in providing the finest black tea blends. Our tea leaves are imported from different countries in the world. <br>Ygnd El-Ras offers five different kinds of black tea blends that comprise of: 9 blends, saffron black tea, rose black tea, cardamom black tea and karak blend.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Our Blends</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Our Blends</a>",
           "_tags": [
             "Theme"
           ],
