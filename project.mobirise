@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "YGNDELRAS",
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2268,7 +2268,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "3",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
