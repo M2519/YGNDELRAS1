@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "YGNDELRAS",
-    "currentPage": "AboutUs.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2089,7 +2089,7 @@
         }
       ]
     },
-    "AboutUs.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "About Us",
