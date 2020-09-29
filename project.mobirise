@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "YGNDELRAS",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2125,7 +2125,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-08-25-at-5.11.19-pm-1400x617.png",
+              "src": "@PROJECT_PATH@/assets/images/d65f645d-cc3f-4f61-9820-57effe49019d-1400x1400.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
