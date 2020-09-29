@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "YGNDELRAS",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -419,7 +419,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-08-25-at-5.06.46-pm-1400x625.png",
+              "src": "@PROJECT_PATH@/assets/images/87ba4450-9aa3-4068-b117-c6d2114d7308-1400x1400.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
