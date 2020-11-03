@@ -1080,6 +1080,7 @@ section.form .container {
 }
 #header3-25 .mbr-section-title {
   color: #ffffff;
+  text-align: left;
 }
 #menu-21 .hide-buttons .nav-btn {
   display: none !important;
@@ -1154,6 +1155,7 @@ section.form .container {
 }
 #header3-26 .mbr-section-title {
   color: #ffffff;
+  text-align: left;
 }
 #header3-28 .mbr-section-title,
 #header3-28 .mbr-section-subtitle {
@@ -1161,4 +1163,5 @@ section.form .container {
 }
 #header3-28 .mbr-section-title {
   color: #ffffff;
+  text-align: left;
 }

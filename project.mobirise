@@ -2589,7 +2589,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -2716,7 +2717,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -2752,7 +2754,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {
