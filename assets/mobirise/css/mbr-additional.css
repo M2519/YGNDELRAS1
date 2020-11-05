@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -543,10 +544,16 @@ section.form .container {
 #features6-4 H4 {
   color: #232323;
 }
+#content2-2 DIV {
+  text-align: left;
+}
 #testimonials2-6 .mbr-section-title {
   color: #1d5632;
   font-size: 30px;
   font-family: 'Montserrat', sans-serif;
+}
+#testimonials2-6 .card-block P {
+  text-align: center;
 }
 #content1-c P {
   font-size: 11px;
@@ -649,6 +656,9 @@ section.form .container {
 }
 #header1-j .mbr-section-lead {
   font-size: 20px;
+}
+#content2-k DIV {
+  text-align: left;
 }
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
@@ -779,6 +789,9 @@ section.form .container {
 #testimonials3-14 .mbr-section-title SPAN {
   font-size: 30px;
 }
+#content1-15 P {
+  text-align: left;
+}
 #msg-box8-17 .mbr-section-title,
 #msg-box8-17 .lead {
   color: #fff;
@@ -800,6 +813,9 @@ section.form .container {
 #features7-18 SPAN {
   font-family: 'PT Sans', sans-serif;
 }
+#features7-18 P {
+  text-align: center;
+}
 #msg-box8-19 .mbr-section-title,
 #msg-box8-19 .lead {
   color: #fff;
@@ -807,6 +823,9 @@ section.form .container {
 #msg-box8-19 .mbr-section-title {
   font-size: 30px;
   color: #1d5632;
+}
+#content2-1a DIV {
+  text-align: left;
 }
 #header3-1d .mbr-section-title,
 #header3-1d .mbr-section-subtitle {
@@ -818,6 +837,9 @@ section.form .container {
   text-align: left;
 }
 #header3-1d .mbr-section-subtitle {
+  text-align: left;
+}
+#header3-1d .mbr-section-subtitle P {
   text-align: left;
 }
 #testimonials1-1e .mbr-section-title {
@@ -911,6 +933,9 @@ section.form .container {
 #features3-1m P {
   color: #777676;
   text-align: center;
+}
+#features3-2d H4 {
+  color: #777676;
 }
 #menu-1i .hide-buttons .nav-btn {
   display: none !important;
@@ -1082,6 +1107,9 @@ section.form .container {
   color: #ffffff;
   text-align: left;
 }
+#content1-23 P {
+  text-align: left;
+}
 #menu-21 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1164,4 +1192,110 @@ section.form .container {
 #header3-28 .mbr-section-title {
   color: #ffffff;
   text-align: left;
+}
+#content1-2z P {
+  font-size: 11px;
+}
+#content1-2z DIV {
+  color: #ffffff;
+}
+
+
+#header1-2h .mbr-section-title {
+  font-size: 36px;
+}
+#header1-2h .mbr-section-lead {
+  font-size: 20px;
+}
+#content5-2k .mbr-section-title,
+#content5-2k .lead {
+  color: #fff;
+}
+#content5-2k .mbr-section-title {
+  color: #1d5632;
+}
+#content5-2k .lead {
+  color: #777676;
+}
+#content5-2k .lead P {
+  font-family: 'Roboto', sans-serif;
+}
+#content2-2l DIV {
+  color: #777676;
+}
+#content2-2l P {
+  font-family: 'Roboto', sans-serif;
+}
+#menu-2e .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2e .navbar-caption {
+  color: #ffffff;
+}
+#menu-2e .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2e .close-icon::before,
+#menu-2e .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2e .link,
+#menu-2e .dropdown-item {
+  color: #ffffff;
+}
+#menu-2e .link {
+  font-size: 0.75rem;
+}
+#menu-2e .dropdown-item,
+#menu-2e .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-2e .link:hover,
+#menu-2e .dropdown-item:hover,
+#menu-2e .link:focus,
+#menu-2e .dropdown-item:focus {
+  color: #1d5632;
+}
+#menu-2e .link[aria-expanded="true"],
+#menu-2e .dropdown-menu {
+  background: #c7bb9b;
+}
+#menu-2e .nav-dropdown-sm .link:focus,
+#menu-2e .nav-dropdown-sm .link:hover,
+#menu-2e .nav-dropdown-sm .dropdown-item:focus,
+#menu-2e .nav-dropdown-sm .dropdown-item:hover {
+  background: #d3cab2!important;
+}
+#menu-2e .navbar,
+#menu-2e .nav-dropdown-sm,
+#menu-2e .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2e .nav-dropdown-sm .dropdown-menu {
+  background: #d9d1bc;
+}
+#menu-2e .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2e .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2e .bg-color.transparent.opened .link:hover,
+#menu-2e .bg-color.transparent.opened .link:focus {
+  color: #1d5632;
+}
+#menu-2e .link[aria-expanded="true"],
+#menu-2e .dropdown-item[aria-expanded="true"] {
+  color: #1d5632!important;
+}
+#menu-2e A {
+  font-size: 9px;
+}
+#menu-2e .btn {
+  font-size: 12px;
+}
+#content1-30 P {
+  font-size: 11px;
+}
+#content1-30 DIV {
+  color: #ffffff;
 }
